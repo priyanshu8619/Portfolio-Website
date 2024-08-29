@@ -1,0 +1,28 @@
+[
+  
+  {
+    "id": 2,
+    "role": "Java Programming Intership",
+    "organisation": "Matrix Computers",
+    "startDate": "1 Aug, 2022",
+    "endDate": "- 15 Sept, 2023",
+    "location": "Jaipur, Rajasthan",
+    "experiences": [
+      "Learn the Java language, OOPS, DSA"
+    ],
+    "imageSrc": "company/Matrix logo.jpeg"
+  },
+  {
+    "id": 3,
+    "role": "Web Development Internship",
+    "organisation": "Learn&Build",
+    "startDate": "25 July, 2022",
+    "endDate": "- 28 Aug, 2022",
+    "location": "Jaipur, Rajasthan",
+    "experiences": [
+      "Learn the technology like HTML, CSS, JAVASCRIPT, etc.",
+      "Made a Restaurant Website 'Black Rose Bistro'"
+    ],
+    "imageSrc": "company/Learn & build logo.jpeg"
+  }
+]

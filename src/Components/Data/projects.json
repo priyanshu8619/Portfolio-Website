@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "Portfolio Website",
+    "imageSrc": "assets/projects/Portfolio-website.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Weather Information",
+    "imageSrc": "assets/projects/Weather-website.png",
+    "description": "This is a project made with complete React js and Material UI.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Amazon Clone",
+    "imageSrc": "assets/projects/Amazon-Clone-website.png",
+    "description": "This is a amazon clone website using Html,CSS.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
