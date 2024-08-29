@@ -5,7 +5,7 @@
     "imageSrc": "assets/projects/Portfolio-website.png",
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
-    "source": "https://github.com/priyanshu8619/Portfolio-Website"
+    "source": "https://portfolio-website-by-priyanshu-verma.netlify.app/"
   },
   {
     "key": 2,
@@ -13,7 +13,7 @@
     "imageSrc": "assets/projects/Weather-website.png",
     "description": "This is a project made with complete React js and Material UI.",
     "demo": "https://www.example.com",
-    "source": "https://github.com/priyanshu8619/Weather-Information-Website"
+    "source": "https://weather-information-by-priyanshuverma.netlify.app/"
   },
   {
     "key": 3,
@@ -21,6 +21,6 @@
     "imageSrc": "assets/projects/Amazon-Clone-website.png",
     "description": "This is a amazon clone website using Html,CSS.",
     "demo": "https://www.example.com",
-    "source": "https://github.com/priyanshu8619/Amazon-Clone"
+    "source": "https://amazon-clone-by-priyanshu-verma.netlify.app/"
   }
 ]
